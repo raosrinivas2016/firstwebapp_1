@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/firstwebapp_1">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="15" maxIdle="3" name="jdbc/pc_builder" password="nbuser" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/pc_builder" username="root"/>
+</Context>
