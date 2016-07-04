@@ -18,6 +18,7 @@
 <tr><td><a href="products.jsp" target="_self">products</a></td></tr>
 <tr><td><a href="customer.jsp" target="_self">customers</a></td></tr>
 <tr><td><a href="contact.jsp" target="_self">Contact us</a></td>
+ <tr><td><a href="animaldata.jsp" target="_self">animaldata</a></td>    
 </table>
         <table align="center">
 <tr><td><A HREF="http://www.gmail.com"><FONT SIZE="4px" COLOR="" face="ariel" ><B>1.rao.srinivas1989@gmail.com</B></FONT></A></td></tr>
